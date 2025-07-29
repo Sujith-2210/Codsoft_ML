@@ -23,12 +23,12 @@ This repository combines three machine learning projects developed during my Cod
 Codsoft_ML/
 │
 ├─ Churn-Prediction/
-│ ├─ data/ # Raw and processed datasets (e.g., Churn_Modelling.csv)
-│ └─ README.md # Project‑specific readme (if any)
+│ ├─ Churn-Prediction-System.ipynb 
+│ └─ Churn_Modelling.csv
 │
 ├─ Credit-Card-Fraud/
 │ ├─ data/ # Fraud datasets
-│ └─ README.md
+│ └─ Datasets.txt
 │
 ├─ Spam-Detection/
 │ ├─ data/ # Email dataset files
@@ -88,7 +88,7 @@ To run any project, activate your environment and execute the relevant notebook 
 
 ```bash
 cd Churn-Prediction
-jupyter notebook Churn_Prediction.ipynb
+jupyter notebook Churn-Prediction-System.ipynb 
 ```
 Replace with similar commands in other project directories.
 
