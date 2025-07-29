@@ -20,7 +20,7 @@ This repository combines three machine learning projects developed during my Cod
 
 ## 📁 Directory Structure
 
-Codsoft_ML/
+RealWorld-ML-Projects/
 │
 ├─ Churn-Prediction/
 │ ├─ Churn-Prediction-System.ipynb 
@@ -49,9 +49,8 @@ Create a virtual environment and install dependencies:
 ```bash
 python3 -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
 ```
-Each project folder contains the respective notebook and code. Run notebooks or scripts as needed.
+Each project folder contains the respective notebook and code. Run notebooks as needed.
 
 ⚙️ Project Details
 1. Churn Prediction
@@ -62,8 +61,6 @@ Feature engineer user demographics and account-related metrics.
 Train classification models (e.g. Logistic Regression, Random Forest).
 
 Evaluate using accuracy, precision, recall, F1‑score.
-
-Save predictions and model files in models/.
 
 2. Credit Card Fraud Detection
 Utilize imbalanced transaction datasets.
