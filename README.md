@@ -27,7 +27,7 @@ Codsoft_ML/
 │ └─ Churn_Modelling.csv
 │
 ├─ Credit-Card-Fraud/
-│ ├─ data/ # Fraud datasets
+│ ├─ Credit-Card-Transactions-Fraud-Detection-System.ipynb
 │ └─ Datasets.txt
 │
 ├─ Spam-Detection/
