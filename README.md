@@ -54,31 +54,23 @@ Each project folder contains the respective notebook and code. Run notebooks as 
 
 ⚙️ Project Details
 1. Churn Prediction
-Explore and preprocess the Churn_Modelling.csv dataset.
-
-Feature engineer user demographics and account-related metrics.
-
-Train classification models (e.g. Logistic Regression, Random Forest).
-
-Evaluate using accuracy, precision, recall, F1‑score.
+- **Explore and preprocess the Churn_Modelling.csv dataset.
+- **Feature engineer user demographics and account-related metrics.
+- **Train classification models (e.g. Logistic Regression, Random Forest).
+- **Evaluate using accuracy, precision, recall, F1‑score.
 
 2. Credit Card Fraud Detection
-Utilize imbalanced transaction datasets.
-
-Perform sampling (SMOTE / undersampling) and feature scaling.
-
-Train classifiers like XGBoost, Random Forest.
-
-Metrics: ROC‑AUC, precision‑recall.
+- **Utilize imbalanced transaction datasets.
+- **Perform sampling (SMOTE / undersampling) and feature scaling.
+- **Train classifiers like XGBoost, Random Forest.
+- **Metrics: ROC‑AUC, precision‑recall.
 
 3. Spam Detection
-Load and clean email datasets.
-
-Text preprocessing: tokenization, stop‑word removal, TF‑IDF.
-
-Use naive Bayes or similar classifier.
-
-Evaluate accuracy and confusion matrix.
+- **Load and clean email datasets.
+- **Text preprocessing: tokenization, stop‑word removal, TF‑IDF.
+- **Use naive Bayes or similar classifier.
+- **Evaluate accuracy and confusion matrix.
+  
 
 🧪 Usage Examples
 To run any project, activate your environment and execute the relevant notebook or script. For example, for Churn Prediction:
