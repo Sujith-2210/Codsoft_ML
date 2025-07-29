@@ -31,8 +31,8 @@ Codsoft_ML/
 │ └─ Datasets.txt
 │
 ├─ Spam-Detection/
-│ ├─ data/ # Email dataset files
-│ └─ README.md
+│ ├─ Spam-Detection-System.ipynb
+│ └─ Spam.csv
 │
 └─ README.md # This unified readme
 
